@@ -1,0 +1,67 @@
+#div1{
+    background-color: black;
+    position: absolute;
+    height: 20fr;
+    width: 100%;
+}
+
+#div2{
+    background-color: aliceblue;
+    position: relative;
+    top: 100px;
+    left: 0px;
+    height: 20fr;
+    width: 100%;
+}
+.nav{
+    justify-content: center;
+    justify-items: center;
+}
+#div3{
+    background-color: greenyellow;
+    position: relative;
+    top: 100px;
+    left: 0px;
+    height: 20fr;
+    width: 100%;
+}
+#carouselExampleControls{
+    background-color:white;
+    position: relative;
+    top: 150px;;
+    height: 20fr;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#carousel-caption{
+    color: green;
+    background-color: black;
+}
+.Subtitulo1{
+    position: relative;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+.Subtitulo2{
+    position: relative;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
+.p1{
+    position: relative;
+    color: black;
+    text-align: justify;
+    font-weight: 900;
+}
+
+.Botao{
+    right: 100;
+    top: 900;
+    color: blue;
+    background-color: aliceblue;
+    width: 15%;
+    
+}
